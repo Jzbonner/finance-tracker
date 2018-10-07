@@ -1,0 +1,25 @@
+{
+  "name": "finance-tracker",
+  "version": "1.0.0",
+  "description": "Web-App for finance instrument tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jzbonner/finance-tracker.git"
+  },
+  "keywords": [
+    "monngodb",
+    "express",
+    "react",
+    "node"
+  ],
+  "author": "Jzbonner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jzbonner/finance-tracker/issues"
+  },
+  "homepage": "https://github.com/Jzbonner/finance-tracker#readme"
+}
