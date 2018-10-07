@@ -11,5 +11,5 @@ Current Functionality includes:
 * [ ] Login and User Account Access 
 * [ ] Visual Accompaniments for Financial Data 
 
-![Diagram1](http://sdmimd.ac.in/financeconference2018/wp-content/uploads/2018/03/Paper_Submission.png)
+![Diagram1](http://sfmagazine.com/wp-content/uploads/2016/07/08_2016_tech_practices.jpg)
 
