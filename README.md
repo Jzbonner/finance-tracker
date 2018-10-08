@@ -7,6 +7,7 @@ A playground environment for working with API request for financial data. This r
 Current Functionality includes: 
 
 * [ ] Loading Financial Instrument Data 
+* [ ] Deploy to Heroku/Surge.sh
 * [ ] Intuitive UI/UX Design 
 * [ ] Login and User Account Access 
 * [ ] Visual Accompaniments for Financial Data 
