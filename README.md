@@ -1,8 +1,8 @@
 # Finance Tracker 
 A playground environment for working with API request for financial data. This repository contains functionality for loading and tracking and financial instruments through a number of publicly available APIs; Specifically: 
 
-* AlphaVantage - [API](https://www.alphavantage.co/)
-* CryptoCompare - [API](https://www.cryptocompare.com/api)
+* AlphaVantage - [API](https://www.alphavantage.co/) 🏦
+* CryptoCompare - [API](https://www.cryptocompare.com/api) 💶
 
 Current Functionality includes: 
 
