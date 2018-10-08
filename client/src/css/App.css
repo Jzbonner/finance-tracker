@@ -4,6 +4,7 @@ body {
 }
 
 .container {
+  background: rgba(207,191,150, 0.7); 
   box-sizing: border-box; 
 }
 
