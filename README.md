@@ -1,5 +1,5 @@
 # Finance Tracker - (MERN Web-App)
-A playground environment for working with API request for financial data. This repository contains functionality for loading and tracking and financial instruments through a number of publicly available APIs; Specifically: 
+A playground environment for working with API request for financial data. This repository contains functionality for loading and tracking various financial instruments through a number of publicly available APIs; Specifically: 
 
 * 🔗 AlphaVantage - [API](https://www.alphavantage.co/) 
 * 🔗 CryptoCompare - [API](https://www.cryptocompare.com/api) 
