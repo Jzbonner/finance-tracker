@@ -6,8 +6,8 @@ A playground environment for working with API request for financial data. This r
 
 Current Functionality includes: 
 
-* [ x ] Migrate mLab account to MongoDB Atlas
-* [ x ] Create Cluster and Database on MonogoDB Atlas 
+* [x ] Migrate mLab account to MongoDB Atlas
+* [ ] Create Cluster and Database on MonogoDB Atlas 
 * [ ] Loading Financial Instrument Data 
 * [ ] Deploy to Heroku/Surge.sh
 * [ ] Intuitive UI/UX Design 
