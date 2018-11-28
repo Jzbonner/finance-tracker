@@ -18,7 +18,5 @@ Frontend layout includes UI/UX design and corresponding functionality. Dependenc
   }
 ```
 ## Frontend Technologies 
-* [React.JS](https://reactjs.org/)
-![Diagram1](https://cdn-images-1.medium.com/max/1200/1*EntHChgUyirgbZ9A3zTxkA.png)
-* [Reactstrap](https://reactstrap.github.io/) 
-![Diagram1](https://ourcodeworld.com/public-media/articles/articleocw-59a931161123a.png)
+* [React.JS](https://reactjs.org/) 🌐
+* [Reactstrap](https://reactstrap.github.io/) 🌐
