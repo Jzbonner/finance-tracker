@@ -22,6 +22,17 @@ router.get('/', (req, res) => {
     res.json({ message: 'Hello World!' })
 }); 
 
+router.get('/stocks', (req, res) => {
+    res.json({ message: 'Test Stock Data'})
+}); 
+
 app.use('/api', router);
 
 app.listen(API_PORT, () => console.log(`Listening on port ${API_PORT}`)); 
+
+/* 
+    You can write the data that you receive in the api request to your MongoDB schema 
+    and then use th "models" folder to select the data that you want to display on 
+    the App.js file or subsequent components. In your App.js file or subsequent 
+    component files you can use a fetch request to pull that data out of your MongoDB
+*/
