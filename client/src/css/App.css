@@ -1,3 +1,7 @@
+/* 
+  General ViewPort Styling 
+*/
+
 body {
   margin: 0;
   padding: 0;
@@ -7,10 +11,20 @@ body {
   background: rgba(207,191,150, 0.7); 
   box-sizing: border-box; 
   height: 100vh; 
+  margin-top: -25px; 
+  padding: 0; 
 }
 
+/* 
+  Title and Header Styling 
+*/
+
 .header {
-  text-align: center; 
   font-family: 'K2D', sans-serif;
-  font-style: italic; 
+  padding: 20px; 
+  text-align: left; 
+}
+
+.ft-icon {
+  padding: 5px; 
 }

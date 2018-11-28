@@ -5,7 +5,10 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <h1 className="header">Finance Tracker</h1>
+        <h3 className="header">
+          <i className="fas fa-balance-scale ft-icon"></i>
+           Finance Tracker
+        </h3>
       </div>
     );
   }
