@@ -1,7 +1,22 @@
 import React, { Component } from 'react';
 import '../css/App.css';
 
+const API = ''; 
+const DEFAULT_QUERY = ''; 
+
 class App extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      data: null, 
+    };
+  }
+
+  componentDidMount() {
+    
+  }
+
   render() {
     return (
       <div className="container-fluid">
